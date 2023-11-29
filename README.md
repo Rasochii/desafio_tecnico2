@@ -1,16 +1,12 @@
-# desafio_tecnico2
+# Desafio Técnico 2 - Leitor de eBooks
 
-A new Flutter project.
+Siga as instruções abaixo para entender como utilizar
 
-## Getting Started
+## Instruções
 
-This project is a starting point for a Flutter application.
+#### Clique na capa de algum dos livros
+#### Clique em "Baixar eBook"
+#### Após download do livro, volte ao aplicativo e clique em "Ler", no canto superior direito
+#### Selecione o arquivo do livro que baixou
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Dessa forma é possível utilizar o app.
