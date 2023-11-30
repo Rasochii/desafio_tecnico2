@@ -41,6 +41,7 @@ dependencies:
   vocsy_epub_viewer: ^2.0.0
   url_launcher: ^6.1.11
   file_picker: ^5.3.1
+  shared_preferences: ^2.2.2
 
 
 dev_dependencies:
